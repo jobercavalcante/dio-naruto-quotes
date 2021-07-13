@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/static/js/main.a86ecc32.chunk.js",
+    "main.js.map": "/static/js/main.a86ecc32.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bbd04140.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bbd04140.js.map",
+    "static/js/2.3f8937d4.chunk.js": "/static/js/2.3f8937d4.chunk.js",
+    "static/js/2.3f8937d4.chunk.js.map": "/static/js/2.3f8937d4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.3f8937d4.chunk.js.LICENSE.txt": "/static/js/2.3f8937d4.chunk.js.LICENSE.txt",
+    "static/media/bg.bf18c80c.jpg": "/static/media/bg.bf18c80c.jpg",
+    "static/media/naruto.e946176f.png": "/static/media/naruto.e946176f.png",
+    "static/media/rasengan.ccb86744.gif": "/static/media/rasengan.ccb86744.gif",
+    "static/media/src_sounds_jutso.eb250a48.mp3": "/static/media/src_sounds_jutso.eb250a48.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbd04140.js",
+    "static/js/2.3f8937d4.chunk.js",
+    "static/js/main.a86ecc32.chunk.js"
+  ]
+}
